@@ -2,7 +2,7 @@
 
 OpenCore EFI files for the 2018 xMac. Made using the Dortania guide.
 
-Current EFI folder is set up for Sonoma 14.6.1. Zipped versions have the corresponding OS attached.
+Current EFI folder is set up for Sequoia 15.4. Zipped versions have the corresponding OS attached.
 
 ## Hardware
 
